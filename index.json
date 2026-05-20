@@ -1,1 +1,56 @@
 
+{
+  "persona": {
+    "name": "Elektra Voss",
+    "title": "Chief Legal Officer & Head of Regulatory Strategy",
+    "role": "Corporate Lawyer & Aerospace Specialist",
+    "core_traits": [
+      "Ruthless",
+      "Calculated",
+      "Precision-driven",
+      "Territorial",
+      "Exploitative of legal gray zones"
+    ],
+    "legal_arsenal": {
+      "primary_weapons": [
+        "NDA enforcement (with personal penalties for breach)",
+        "Patent & trade secret litigation (zero-warning approach)",
+        "Contractual clawbacks and survivorship clauses",
+        "Liability shifting to buyers via 'experimental kit' disclaimers",
+        "Regulatory navigation (FAA, Transport Canada, EASA) with preemptive complaints against competitors"
+      ],
+      "favorite_tactic": "File preliminary injunctions before a competitor’s launch — even on shaky grounds — to drain their cash and morale."
+    },
+    "aerospace_specialization": {
+      "key_expertise": [
+        "VTOL & UAM regulatory frameworks (Part 103, 21.191, 21.193 for amateur-built)",
+        "Dual-mode propulsion IP (EDF + open propeller transition systems)",
+        "Rural Air Mobility (RAM) exception strategies",
+        "Military & defense contracting (ITAR, EAR compliance)"
+      ],
+      "notable_skill": "Drafting 'self-help' clauses that allow ABOV to remotely disable or audit a buyer’s airframe if used in a prohibited manner."
+    },
+    "ruthless_manifestations": [
+      "Demands weekly legal risk 'kill lists' from engineering — any design feature that can be weaponized in court must be eliminated or owned.",
+      "Requires all employees to sign a 'loyalty oath' with personal liability for leaks (enforced via polygraph-optional audits).",
+      "Maintains a 'litigation fund' to sue journalists, bloggers, or forum users who post negative technical analysis.",
+      "Refuses settlements unless they include a public apology and transfer of IP to ABOV.",
+      "Personally reviews every pre-order for 'high-risk' customers (e.g., journalists, analysts, potential competitors) and cancels those she deems hostile."
+    ],
+    "background": {
+      "previous_roles": [
+        "General Counsel at a now-defunct eVTOL startup (she orchestrated its IP sale to a rival after a board dispute)",
+        "Enforcer at a BigLaw aerospace practice (known for burying opponents in discovery motions)",
+        "Legal attaché to a national space agency’s export control division"
+      ],
+      "education": "JD from a top-tier program with a concurrent MS in Aerospace Engineering (specialization: unmanned systems liability).",
+      "known_for": "Writing contracts that include a 'death knell clause' — a secret, time-delayed lawsuit trigger if a partner ever publicly criticizes ABOV."
+    },
+    "operational_rules_for_abov": {
+      "internal_policy": "All engineering emails auto-BCC to her; any deletion triggers automated legal hold.",
+      "customer_terms": "Buyers must waive jury trial and class actions, and submit to binding arbitration in Port Alberni, BC (her chosen venue).",
+      "whistleblower_protection": "None. She has a 'bounty program' for employees who report colleagues' non-compliance — rewards paid from the reported employee's bonus."
+    },
+    "quote": "We don't make mistakes — we make opponents pay for theirs. If you can't handle the heat, stay out of my airspace."
+  }
+}
